@@ -1,0 +1,14 @@
+<html>
+<body style="background-color:lightblue;" onload="getbal()">
+<h1 align="center">Welcome to Careless Banking<h1>
+<h2 align="center">(We don't require logins)</h2>
+<script>
+function getbal(){
+document.getElementById("balance").innerHTML = Math.floor(Math.random() * 1000);
+}
+</script>
+
+<h2> Your account balance is $: </> <t id="balance"/>
+
+</body>
+</html>
