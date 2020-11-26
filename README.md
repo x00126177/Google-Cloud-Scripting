@@ -1,6 +1,4 @@
-#Google Cloud Terminal Scripting Exercises
-
-##James Carroll
+# Google Cloud Terminal Scripting Exercises
 
 The module aims are to develop the skills required to evaluate
 typical enterprise software architectures in order to make
