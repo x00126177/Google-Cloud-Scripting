@@ -1,5 +1,5 @@
 # Week 10 Explained in full detail
-This lab was used to automate the verificiation of a web servers status
+This lab was used to automate the verificiation of a web servers status. <br>
 This was done by checking parameters on a website to see if the parameters were on the page or not
 
 ## 1. #!/bin/bash
