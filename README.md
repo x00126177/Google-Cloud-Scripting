@@ -1,6 +1,6 @@
 # Google Cloud Terminal Scripting Exercises
 
-The module aims are to develop the skills required to evaluate
+This modules goals are to develop the skills required to evaluate
 typical enterprise software architectures in order to make
 strategic recommendations in support of both application
 architecture and infrastructure management. Following from
